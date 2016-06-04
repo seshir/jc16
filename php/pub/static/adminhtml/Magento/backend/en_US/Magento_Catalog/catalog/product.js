@@ -1,0 +1,1 @@
+/Users/Seshireddy/Documents/work/jc16/php/vendor/magento/module-catalog/view/adminhtml/web/catalog/product.js
